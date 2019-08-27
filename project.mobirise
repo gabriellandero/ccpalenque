@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Centro Capacitacion",
+    "name": "Portal Informativo Ciudadano",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise-amp",
@@ -34,14 +34,18 @@
     "siteFonts": [],
     "uniqCompNum": 5,
     "versionPublish": "4.10.6",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/logo-128x121.png",
+    "noImageResize": "",
+    "google-analytics": "",
+    "сanonical-url": ""
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "interfaz",
+        "meta_descr": "Diseño de Sitios Web Interfaz",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -71,7 +75,7 @@
             }
           },
           "_name": "header2",
-          "_customHTML": "<section class=\"header2\" group=\"Headers\" plugins=\"amp-main\" mbr-class=\"{'mbr-fullscreen': fullScreen}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Pantalla Completa\" name=\"fullScreen\">\n        <input type=\"range\" inline title=\"Por Encima\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Por Debajo\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Ancho de Imagen\" name=\"imageWidth\" min=\"0\" max=\"100\" step=\"1\" value=\"100\">\n\n        <input type=\"checkbox\" title=\"Mostrar Título\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Mostrar Subtítulo\" name=\"showSubTitle\" checked>\n        <input type=\"checkbox\" title=\"Mostrar Texto\" name=\"showText\">\n        <input type=\"checkbox\" title=\"Mostrar Botones\" name=\"showButtons\" checked>\n\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Imagen de Fondo\" value=\"../_images/background3.jpg\">\n            <input type=\"color\" title=\"Color de Fondo\" value=\"#4ea2e3\" selected>\n        </fieldset>\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"mbr-row mbr-justify-content-center\">\n            <div class=\"mbr-col-lg-8\">\n                <h1 class=\"mbr-fonts-style align-center mbr-bold\" mbr-theme-style=\"display-1\" mbr-if=\"showTitle\">Centro de Capacitación Palenque,Chiapas</h1>\n                <h3 class=\"mbr-fonts-style align-center\" mbr-if=\"showSubTitle\" mbr-theme-style=\"display-5\">\n                    Páginas Móviles Aceleradas por InterfaZ</h3>\n                <div class=\"mbr-text align-center\">\n                    <p class=\"mbr-text mbr-fonts-style\" mbr-if=\"showText\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text, .mbr-section-btn\">\n                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod at id fugiat natus a voluptas eveniet officia iure nihil nostrum ad, modi ipsam, dicta ullam accusamus, voluptate aspernatur. Accusamus, aliquid?\n                    </p>\n                </div>\n                <div class=\"mbr-section-btn align-center\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons mbr-theme-style=\"display-4\"><a class=\"btn btn-md btn-primary\" href=\"page1.html\" data-app-placeholder=\"Type Text\">COMENZAR A CREAR</a>\n                    <a class=\"btn btn-md btn-warning\" href=\"page1.html\" data-app-placeholder=\"Type Text\">CCPalenque</a></div>\n                <amp-img src=\"@PROJECT_PATH@/assets/images/capacitacion-329x153.jpg\" alt=\"Mobirise\" width=\"731.1111111111111\" height=\"340\" layout=\"responsive\" class=\"mobirise-loader\">\n                    <div placeholder class=\"placeholder\"></div>\n                    <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/capacitacion-329x153.jpg\" alt=\"Mobirise\" title>\n                </amp-img>\n            </div>\n        </div>\n    </div>\n\n</section>",
+          "_customHTML": "<section class=\"header2\" group=\"Headers\" plugins=\"amp-main\" mbr-class=\"{'mbr-fullscreen': fullScreen}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Pantalla Completa\" name=\"fullScreen\">\n        <input type=\"range\" inline=\"\" title=\"Por Encima\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline=\"\" title=\"Por Debajo\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline=\"\" title=\"Ancho de Imagen\" name=\"imageWidth\" min=\"0\" max=\"100\" step=\"1\" value=\"100\">\n\n        <input type=\"checkbox\" title=\"Mostrar Título\" name=\"showTitle\" checked=\"\">\n        <input type=\"checkbox\" title=\"Mostrar Subtítulo\" name=\"showSubTitle\" checked=\"\">\n        <input type=\"checkbox\" title=\"Mostrar Texto\" name=\"showText\">\n        <input type=\"checkbox\" title=\"Mostrar Botones\" name=\"showButtons\" checked=\"\">\n\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Imagen de Fondo\" value=\"../_images/background3.jpg\">\n            <input type=\"color\" title=\"Color de Fondo\" value=\"#4ea2e3\" selected=\"\">\n        </fieldset>\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"mbr-row mbr-justify-content-center\">\n            <div class=\"mbr-col-lg-8\">\n                <h1 class=\"mbr-fonts-style align-center mbr-bold\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\">Diseño de Sitio Web Interfaz de México Palenque,Chiapas</h1>\n                <h3 class=\"mbr-fonts-style align-center\" mbr-if=\"showSubTitle\" mbr-theme-style=\"display-5\">\n                    Páginas Móviles Aceleradas por Interfaz Grafica</h3>\n                <div class=\"mbr-text align-center\">\n                    <p class=\"mbr-text mbr-fonts-style\" mbr-if=\"showText\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text, .mbr-section-btn\">\n                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod at id fugiat natus a voluptas eveniet officia iure nihil nostrum ad, modi ipsam, dicta ullam accusamus, voluptate aspernatur. Accusamus, aliquid?\n                    </p>\n                </div>\n                <div class=\"mbr-section-btn align-center\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons=\"\" mbr-theme-style=\"display-4\"><a class=\"btn btn-md btn-primary\" href=\"page1.html\" data-app-placeholder=\"Type Text\">CONTACTANOS&nbsp;</a>\n                    <a class=\"btn btn-md btn-warning\" href=\"page2.html\" data-app-placeholder=\"Type Text\">BIENVENIDO INTERFAZ</a></div>\n                <amp-img src=\"@PROJECT_PATH@/assets/images/capacitacion-329x153.jpg\" alt=\"Mobirise\" width=\"731.1111111111111\" height=\"340\" layout=\"responsive\" class=\"mobirise-loader\">\n                    <div placeholder=\"\" class=\"placeholder\"></div>\n                    <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/capacitacion-329x153.jpg\" alt=\"Mobirise\" title=\"\">\n                </amp-img>\n            </div>\n        </div>\n    </div>\n\n</section>",
           "_cid": "rzZdlnHPBn",
           "_anchor": "header2-0",
           "_protectedParams": [],
@@ -130,11 +134,11 @@
               "margin": "1rem"
             },
             "P": {
-              "text-align": "left"
+              "text-align": "center"
             }
           },
           "_name": "tab1",
-          "_customHTML": "<section class=\"mbr-section tab1\" group=\"Toggles & Tabs\" plugins=\"amp-main, amp-selector\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Por Encima\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Por Debajo\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        \n        <input type=\"checkbox\" title=\"Mostrar Título\" name=\"showTitle\" checked>\n        <input type=\"color\" name=\"activeColor\" value=\"#0dd1ff\">\n        <select name=\"tabsAmount\" title=\"Tabs Amount\">\n            <option value=\"2\">2</option>\n            <option value=\"3\" selected>3</option>\n            <option value=\"4\">4</option>\n            <option value=\"5\">5</option>\n            <option value=\"6\">6</option>\n        </select>\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Imagen de Fondo\" value=\"@PROJECT_PATH@/assets/images/humanismo-397x303.jpg\" selected>\n            <input type=\"color\" title=\"Color de Fondo\" value=\"#ffffff\">\n        </fieldset>\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <amp-selector role=\"tablist\" layout=\"container\" class=\"ampTabContainer\">\n            <div role=\"tab\" class=\"tab-button\" selected option=\"a\">\n                <h3 class=\"tab-head mbr-fonts-style mbr-white mbr-light\" mbr-theme-style=\"display-2\">Plataforma</h3>\n            </div>\n            <div role=\"tabpanel\" class=\"tab-content\">\n                <h2 class=\"mbr-section-title mbr-fonts-style align-center mbr-white mbr-light\" mbr-theme-style=\"display-2\" data-app-selector=\".mbr-section-title\" mbr-if=\"showTitle\">\n                    Centro de Capacitación</h2>\n                <p class=\"mbr-fonts-style mbr-white align-center\" mbr-theme-style=\"display-7\">El diseño web es una actividad que consiste en la planificación, diseño, implementación y mantenimiento de sitios web. No es simplemente la implementación del diseño convencional ya que se abarcan diferentes aspectos como el diseño gráfico web, diseño de interfaz y experiencia de usuario, como la navegabilidad, interactividad, usabilidad, arquitectura de la información; interacción de medios, entre los que podemos mencionar audio, texto, imagen, enlaces, video y la optimización de motores de búsqueda. A menudo muchas personas trabajan en equipos que cubren los diferentes aspectos del proceso de diseño, aunque existen algunos diseñadores independientes que trabajan solos. \n<br>\n<br>\n<br>La unión de un buen diseño con una jerarquía bien elaborada de contenidos, aumenta la eficiencia de la web como canal de comunicación e intercambio de datos, que brinda posibilidades como el contacto directo entre el productor y el consumidor de contenidos. \n<br>\n<br>El diseño web ha visto amplia aplicación en los sectores comerciales de Internet especialmente en la World Wide Web. A menudo la web se utiliza como medio de expresión plástica en sí. Artistas y creadores hacen de las páginas en Internet un medio más para ofrecer sus producciones y utilizarlas como un canal más de difusión de su obra.</p>\n            </div>\n\n            <div role=\"tab\" class=\"tab-button\" option=\"b\">\n                <h3 class=\"tab-head mbr-fonts-style mbr-white mbr-light\" mbr-theme-style=\"display-2\">Compromisos</h3>\n            </div>\n            <div role=\"tabpanel\" class=\"tab-content\">\n                <h2 class=\"mbr-section-title mbr-fonts-style align-center mbr-white mbr-light\" mbr-theme-style=\"display-2\" data-app-selector=\".mbr-section-title\" mbr-if=\"showTitle\">Nuestro Compromiso C.C.P.</h2>\n                <p class=\"mbr-fonts-style mbr-white align-center\" mbr-theme-style=\"display-7\"><br>Centro Capacitación de Palenque es reducir la brechas entre “ciudanos” e “empresa” en relación a los Sistemas de Informacion &nbsp;( SI )y Tecnologia de la Información ( IT )en particular para profesionistas de software no tienen por qué seguir siendo grandes y mucho menos tiene que continuar desatendida. \n<br>\n<br>Es importante que todo estudiante o ciudadano interesado en los sitemas de informacion , puede ayudar a acortar dicha brecha y orientarse hacia lo que las empresas necesitan para ser más productivas y obtener mejores resultados en una industria tan competida. \n<br>\n<br>Para atender las necesidades que las empresas tienen en relación con el software, requieren contar con personal calificado con las competencias, conocimientos, habilidades y actitudes correctas.<br></p>         \n            </div>\n            <div role=\"tab\" class=\"tab-button\" option=\"c\" mbr-if=\"tabsAmount > 2\">\n                <h3 class=\"tab-head mbr-fonts-style mbr-white mbr-light\" mbr-theme-style=\"display-2\">Flexibilidad</h3>\n            </div>\n            <div role=\"tabpanel\" class=\"tab-content\" mbr-if=\"tabsAmount > 2\">\n                <h2 class=\"mbr-section-title mbr-fonts-style align-center mbr-white mbr-light\" mbr-theme-style=\"display-2\" data-app-selector=\".mbr-section-title\" mbr-if=\"showTitle\">Flexibilidad</h2>\n                <p class=\"mbr-fonts-style mbr-white align-center\" mbr-theme-style=\"display-7\">Tener personal capacitado en el desarrollo e integración de software que atienda a sus propios requerimientos.\n<br>Ocupar con personas competentes nuevos puestos que comparten funciones de distintas áreas relacionadas con el software, como el de arquitecto en software.\n<br>Contar con personal que tenga una visión sistémica de los procesos de las TI, que les permitan comprender los procesos que se realizan en diferentes actividades, tales como programar, desarrollar, integrar y modelar.\n<br>Tener personal capacitado para desarrollar sistemas en la nube con información en línea y disponibilidad continua.&nbsp;<br></p>\n            </div>\n            <div role=\"tab\" class=\"tab-button\" option=\"d\" mbr-if=\"tabsAmount > 3\">\n                <h3 class=\"tab-head mbr-fonts-style mbr-white mbr-light\" mbr-theme-style=\"display-2\">Performance</h3>\n            </div>\n            <div role=\"tabpanel\" class=\"tab-content\" mbr-if=\"tabsAmount > 3\">\n                <h2 class=\"mbr-section-title mbr-fonts-style align-center mbr-white mbr-light\" mbr-theme-style=\"display-2\" data-app-selector=\".mbr-section-title\" mbr-if=\"showTitle\">\n                    EFFECTIVE ENGAGEMENT\n                </h2>\n                <p class=\"mbr-fonts-style mbr-white align-center\" mbr-theme-style=\"display-7\"><span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos, pariatur omnis odit, molestias inventore beatae adipisci fugiat fugit itaque minus explicabo iure deserunt corporis minima vitae dicta et libero sit.</span><span>Nihil cumque aspernatur nam fugiat iusto error, distinctio, dolorum explicabo nobis. Voluptatem dolores, laudantium qui aspernatur recusandae velit, molestiae facilis harum itaque quisquam! Porro dolorem, pariatur rerum ullam dolores non?</span></p>\n            </div>\n            <div role=\"tab\" class=\"tab-button\" option=\"e\" mbr-if=\"tabsAmount > 4\">\n                <h3 class=\"tab-head mbr-fonts-style mbr-white mbr-light\" mbr-theme-style=\"display-2\">Compromisos</h3>\n            </div>\n            <div role=\"tabpanel\" class=\"tab-content\" mbr-if=\"tabsAmount > 4\">\n                <h2 class=\"mbr-section-title mbr-fonts-style align-center mbr-white mbr-light\" mbr-theme-style=\"display-2\" data-app-selector=\".mbr-section-title\" mbr-if=\"showTitle\">\n                    EFFECTIVE ENGAGEMENT\n                </h2>\n                <p class=\"mbr-fonts-style mbr-white align-center\" mbr-theme-style=\"display-7\"><span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos, pariatur omnis odit, molestias inventore beatae adipisci fugiat fugit itaque minus explicabo iure deserunt corporis minima vitae dicta et libero sit.</span><span>Nihil cumque aspernatur nam fugiat iusto error, distinctio, dolorum explicabo nobis. Voluptatem dolores, laudantium qui aspernatur recusandae velit, molestiae facilis harum itaque quisquam! Porro dolorem, pariatur rerum ullam dolores non?</span></p>\n            </div>\n            <div role=\"tab\" class=\"tab-button\" option=\"f\" mbr-if=\"tabsAmount > 5\">\n                <h3 class=\"tab-head mbr-fonts-style mbr-white mbr-light\" mbr-theme-style=\"display-2\">Compromisos</h3>\n            </div>\n            <div role=\"tabpanel\" class=\"tab-content\" mbr-if=\"tabsAmount > 5\">\n                <h2 class=\"mbr-section-title mbr-fonts-style align-center mbr-white mbr-light\" mbr-theme-style=\"display-2\" data-app-selector=\".mbr-section-title\" mbr-if=\"showTitle\">\n                    EFFECTIVE ENGAGEMENT\n                </h2>\n                <p class=\"mbr-fonts-style mbr-white align-center\" mbr-theme-style=\"display-7\"><span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos, pariatur omnis odit, molestias inventore beatae adipisci fugiat fugit itaque minus explicabo iure deserunt corporis minima vitae dicta et libero sit.</span><span>Nihil cumque aspernatur nam fugiat iusto error, distinctio, dolorum explicabo nobis. Voluptatem dolores, laudantium qui aspernatur recusandae velit, molestiae facilis harum itaque quisquam! Porro dolorem, pariatur rerum ullam dolores non?</span></p>\n            </div>\n        </amp-selector>\n    </div>\n\n</section>",
+          "_customHTML": "<section class=\"mbr-section tab1\" group=\"Toggles & Tabs\" plugins=\"amp-main, amp-selector\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Por Encima\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Por Debajo\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        \n        <input type=\"checkbox\" title=\"Mostrar Título\" name=\"showTitle\" checked>\n        <input type=\"color\" name=\"activeColor\" value=\"#0dd1ff\">\n        <select name=\"tabsAmount\" title=\"Tabs Amount\">\n            <option value=\"2\">2</option>\n            <option value=\"3\" selected>3</option>\n            <option value=\"4\">4</option>\n            <option value=\"5\">5</option>\n            <option value=\"6\">6</option>\n        </select>\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Imagen de Fondo\" value=\"@PROJECT_PATH@/assets/images/humanismo-397x303.jpg\" selected>\n            <input type=\"color\" title=\"Color de Fondo\" value=\"#ffffff\">\n        </fieldset>\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <amp-selector role=\"tablist\" layout=\"container\" class=\"ampTabContainer\">\n            <div role=\"tab\" class=\"tab-button\" selected option=\"a\">\n                <h3 class=\"tab-head mbr-fonts-style mbr-white mbr-light\" mbr-theme-style=\"display-2\">Nuestro Trabajo</h3>\n            </div>\n            <div role=\"tabpanel\" class=\"tab-content\">\n                <h2 class=\"mbr-section-title mbr-fonts-style align-center mbr-white mbr-light\" mbr-theme-style=\"display-2\" data-app-selector=\".mbr-section-title\" mbr-if=\"showTitle\">¿Que hacemos para desarrollar sitos web ?</h2>\n                <p class=\"mbr-fonts-style mbr-white align-center\" mbr-theme-style=\"display-7\">El diseño web es una actividad que consiste en la planificación, diseño, implementación y mantenimiento de sitios web. No es simplemente la implementación del diseño convencional ya que se abarcan diferentes aspectos como el diseño gráfico web, diseño de interfaz amigable y experiencia de usuario, como la navegabilidad, interactividad, usabilidad, arquitectura de la información; interacción de medios, entre los que podemos mencionar audio, texto, imagen, enlaces, video y la optimización de motores de búsqueda. A menudo muchas personas trabajan en equipos que cubren los diferentes aspectos del proceso de diseño, aunque existen algunos diseñadores independientes que trabajan solos. \n<br>\n<br>\n<br>La unión de un buen diseño con una jerarquía bien elaborada de contenidos, aumenta la eficiencia de la web como canal de comunicación e intercambio de datos, que brinda posibilidades como el contacto directo entre el productor y el consumidor de contenidos. \n<br>\n<br>El diseño web ha visto amplia aplicación en los sectores comerciales de Internet especialmente en la World Wide Web. A menudo la web se utiliza como medio de expresión plástica en sí. Artistas y creadores hacen de las páginas en Internet un medio más para ofrecer sus producciones y utilizarlas como un canal más de difusión de su obra.</p>\n            </div>\n\n            <div role=\"tab\" class=\"tab-button\" option=\"b\">\n                <h3 class=\"tab-head mbr-fonts-style mbr-white mbr-light\" mbr-theme-style=\"display-2\">Compromisos</h3>\n            </div>\n            <div role=\"tabpanel\" class=\"tab-content\">\n                <h2 class=\"mbr-section-title mbr-fonts-style align-center mbr-white mbr-light\" mbr-theme-style=\"display-2\" data-app-selector=\".mbr-section-title\" mbr-if=\"showTitle\">Nuestro Compromiso C.C.P.</h2>\n                <p class=\"mbr-fonts-style mbr-white align-center\" mbr-theme-style=\"display-7\"><br>Centro Capacitación de Palenque es reducir la brechas entre “ciudanos” e “empresa” en relación a los Sistemas de Informacion &nbsp;( SI )y Tecnologia de la Información ( IT )en particular para profesionistas de software no tienen por qué seguir siendo grandes y mucho menos tiene que continuar desatendida. \n<br>\n<br>Es importante que todo estudiante o ciudadano interesado en los sitemas de informacion , puede ayudar a acortar dicha brecha y orientarse hacia lo que las empresas necesitan para ser más productivas y obtener mejores resultados en una industria tan competida. \n<br>\n<br>Para atender las necesidades que las empresas tienen en relación con el software, requieren contar con personal calificado con las competencias, conocimientos, habilidades y actitudes correctas.<br></p>         \n            </div>\n            <div role=\"tab\" class=\"tab-button\" option=\"c\" mbr-if=\"tabsAmount > 2\">\n                <h3 class=\"tab-head mbr-fonts-style mbr-white mbr-light\" mbr-theme-style=\"display-2\">Flexibilidad</h3>\n            </div>\n            <div role=\"tabpanel\" class=\"tab-content\" mbr-if=\"tabsAmount > 2\">\n                <h2 class=\"mbr-section-title mbr-fonts-style align-center mbr-white mbr-light\" mbr-theme-style=\"display-2\" data-app-selector=\".mbr-section-title\" mbr-if=\"showTitle\">Flexibilidad</h2>\n                <p class=\"mbr-fonts-style mbr-white align-center\" mbr-theme-style=\"display-7\">Tener personal capacitado en el desarrollo e integración de software que atienda a sus propios requerimientos.\n<br>Ocupar con personas competentes nuevos puestos que comparten funciones de distintas áreas relacionadas con el software, como el de arquitecto en software.\n<br>Contar con personal que tenga una visión sistémica de los procesos de las TI, que les permitan comprender los procesos que se realizan en diferentes actividades, tales como programar, desarrollar, integrar y modelar.\n<br>Tener personal capacitado para desarrollar sistemas en la nube con información en línea y disponibilidad continua.&nbsp;<br></p>\n            </div>\n            <div role=\"tab\" class=\"tab-button\" option=\"d\" mbr-if=\"tabsAmount > 3\">\n                <h3 class=\"tab-head mbr-fonts-style mbr-white mbr-light\" mbr-theme-style=\"display-2\">Performance</h3>\n            </div>\n            <div role=\"tabpanel\" class=\"tab-content\" mbr-if=\"tabsAmount > 3\">\n                <h2 class=\"mbr-section-title mbr-fonts-style align-center mbr-white mbr-light\" mbr-theme-style=\"display-2\" data-app-selector=\".mbr-section-title\" mbr-if=\"showTitle\">\n                    EFFECTIVE ENGAGEMENT\n                </h2>\n                <p class=\"mbr-fonts-style mbr-white align-center\" mbr-theme-style=\"display-7\"><span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos, pariatur omnis odit, molestias inventore beatae adipisci fugiat fugit itaque minus explicabo iure deserunt corporis minima vitae dicta et libero sit.</span><span>Nihil cumque aspernatur nam fugiat iusto error, distinctio, dolorum explicabo nobis. Voluptatem dolores, laudantium qui aspernatur recusandae velit, molestiae facilis harum itaque quisquam! Porro dolorem, pariatur rerum ullam dolores non?</span></p>\n            </div>\n            <div role=\"tab\" class=\"tab-button\" option=\"e\" mbr-if=\"tabsAmount > 4\">\n                <h3 class=\"tab-head mbr-fonts-style mbr-white mbr-light\" mbr-theme-style=\"display-2\">Compromisos</h3>\n            </div>\n            <div role=\"tabpanel\" class=\"tab-content\" mbr-if=\"tabsAmount > 4\">\n                <h2 class=\"mbr-section-title mbr-fonts-style align-center mbr-white mbr-light\" mbr-theme-style=\"display-2\" data-app-selector=\".mbr-section-title\" mbr-if=\"showTitle\">\n                    EFFECTIVE ENGAGEMENT\n                </h2>\n                <p class=\"mbr-fonts-style mbr-white align-center\" mbr-theme-style=\"display-7\"><span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos, pariatur omnis odit, molestias inventore beatae adipisci fugiat fugit itaque minus explicabo iure deserunt corporis minima vitae dicta et libero sit.</span><span>Nihil cumque aspernatur nam fugiat iusto error, distinctio, dolorum explicabo nobis. Voluptatem dolores, laudantium qui aspernatur recusandae velit, molestiae facilis harum itaque quisquam! Porro dolorem, pariatur rerum ullam dolores non?</span></p>\n            </div>\n            <div role=\"tab\" class=\"tab-button\" option=\"f\" mbr-if=\"tabsAmount > 5\">\n                <h3 class=\"tab-head mbr-fonts-style mbr-white mbr-light\" mbr-theme-style=\"display-2\">Compromisos</h3>\n            </div>\n            <div role=\"tabpanel\" class=\"tab-content\" mbr-if=\"tabsAmount > 5\">\n                <h2 class=\"mbr-section-title mbr-fonts-style align-center mbr-white mbr-light\" mbr-theme-style=\"display-2\" data-app-selector=\".mbr-section-title\" mbr-if=\"showTitle\">\n                    EFFECTIVE ENGAGEMENT\n                </h2>\n                <p class=\"mbr-fonts-style mbr-white align-center\" mbr-theme-style=\"display-7\"><span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos, pariatur omnis odit, molestias inventore beatae adipisci fugiat fugit itaque minus explicabo iure deserunt corporis minima vitae dicta et libero sit.</span><span>Nihil cumque aspernatur nam fugiat iusto error, distinctio, dolorum explicabo nobis. Voluptatem dolores, laudantium qui aspernatur recusandae velit, molestiae facilis harum itaque quisquam! Porro dolorem, pariatur rerum ullam dolores non?</span></p>\n            </div>\n        </amp-selector>\n    </div>\n\n</section>",
           "_cid": "rzZdpw9DVL",
           "_anchor": "tab1-1",
           "_protectedParams": [],
@@ -156,10 +160,14 @@
             "p": {
               "margin": "0",
               "color": "#ffffff"
+            },
+            ".mbr-col-sm-12, .mbr-text": {
+              "color": "#000000",
+              "text-align": "left"
             }
           },
           "_name": "footer1",
-          "_customHTML": "<section class=\"footer1\" group=\"Footers\" plugins=\"amp-main\" global once=\"footer\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Por Encima\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Por Debajo\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Imagen de Fondo\" value=\"../_images/background6.jpg\">\n            <input type=\"color\" title=\"Color de Fondo\" value=\"#232323\" selected>\n        </fieldset>\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"mbr-col-sm-12 align-center mbr-white\">\n            <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-col-sm-12, .mbr-text\" data-app-placeholder=\"Type Text\">\n                © Copyright 2019 Interfaz - All Rights Reserved\n            </p>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"footer1\" group=\"Footers\" plugins=\"amp-main\" global once=\"footer\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Por Encima\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"8\">\n        <input type=\"range\" inline title=\"Por Debajo\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Imagen de Fondo\" value=\"@PROJECT_PATH@/assets/images/interfaz-1413x278.png\" selected>\n            <input type=\"color\" title=\"Color de Fondo\" value=\"#232323\">\n        </fieldset>\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"mbr-col-sm-12 align-center mbr-white\">\n            <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-col-sm-12, .mbr-text\" data-app-placeholder=\"Type Text\"><b>Soluciones Digitales de México</b></p>\n        </div>\n    </div>\n</section>",
           "_cid": "rzZdsjpBuI",
           "_anchor": "footer1-2",
           "_protectedParams": [],
@@ -172,7 +180,7 @@
     "page1.html": {
       "settings": {
         "title": "contacto",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -189,16 +197,20 @@
             "p": {
               "margin": "0",
               "color": "#ffffff"
+            },
+            ".mbr-col-sm-12, .mbr-text": {
+              "color": "#000000",
+              "text-align": "left"
             }
           },
           "_name": "footer1",
-          "_customHTML": "<section class=\"footer1\" group=\"Footers\" plugins=\"amp-main\" global once=\"footer\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Por Encima\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Por Debajo\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Imagen de Fondo\" value=\"../_images/background6.jpg\">\n            <input type=\"color\" title=\"Color de Fondo\" value=\"#232323\" selected>\n        </fieldset>\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"mbr-col-sm-12 align-center mbr-white\">\n            <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-col-sm-12, .mbr-text\" data-app-placeholder=\"Type Text\">\n                © Copyright 2019 Interfaz - All Rights Reserved\n            </p>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"footer1\" group=\"Footers\" plugins=\"amp-main\" global once=\"footer\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Por Encima\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"8\">\n        <input type=\"range\" inline title=\"Por Debajo\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Imagen de Fondo\" value=\"@PROJECT_PATH@/assets/images/interfaz-1413x278.png\" selected>\n            <input type=\"color\" title=\"Color de Fondo\" value=\"#232323\">\n        </fieldset>\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"mbr-col-sm-12 align-center mbr-white\">\n            <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-col-sm-12, .mbr-text\" data-app-placeholder=\"Type Text\"><b>Soluciones Digitales de México</b></p>\n        </div>\n    </div>\n</section>",
           "_cid": "rzZdsjpBuI",
+          "_anchor": "footer1-3",
           "_protectedParams": [],
           "_global": true,
           "_once": "footer",
-          "_params": {},
-          "_anchor": "footer1-3"
+          "_params": {}
         },
         {
           "alias": false,
@@ -302,6 +314,240 @@
           "_customHTML": "<section class=\"contacts6\" group=\"Contacts\" plugins=\"amp-main,amp-form,amp-mustache\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Por Encima\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Por Debajo\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"4\">\n        <input type=\"checkbox\" title=\"Mostrar Título\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Mostrar Subtítulo\" name=\"showSubtitle\">\n\n        <input type=\"checkbox\" title=\"Show Image\" name=\"showImg\" checked>\n\n        <input type=\"color\" title=\"Fields Color\" name=\"inputColor\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Border Color\" name=\"borderColor\" value=\"#767676\">\n        <input type=\"color\" title=\"Form Text Color\" name=\"labelsColor\" value=\"#000000\">\n\n        <input type=\"checkbox\" title=\"Map on Left/Right\" name=\"reverseContent\" condition=\"showImg\">\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Imagen de Fondo\" value=\"../_images/background2.jpg\">\n            <input type=\"color\" title=\"Color de Fondo\" value=\"#ffffff\" selected>\n        </fieldset>\n        <input type=\"map\" title=\"Mapa\" name=\"googleMap\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <h2 mbr-if=\"showTitle\" class=\"align-center mbr-fonts-style mbr-section-title\" mbr-theme-style=\"display-2\">\n            Contacto\n        </h2>\n        <h3 mbr-if=\"showSubtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-section-subtitle\">\n            Find Us Or Contact Us\n        </h3>\n\n        <div class=\"mbr-row mbr-justify-content-center main-row\">\n            <div class=\"mbr-col-md-12 mbr-col-sm-12 mbr-col-lg-6 img-content\" mbr-if=\"showImg\">\n                <amp-img src=\"@PROJECT_PATH@/assets/images/capacitacion1-321x157.png\" alt=\"Mobirise\" width=\"523.4140127388536\" height=\"256\" layout=\"responsive\" class=\"mobirise-loader\">\n                    <div placeholder class=\"placeholder\"></div>\n                    <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/capacitacion1-321x157.png\" alt=\"Mobirise\" title>\n                </amp-img>\n            </div>\n\n\n            <div class=\"mbr-col-md-12 mbr-col-sm-12 form-content\" mbr-class=\"{'mbr-col-lg-12':!showImg, 'mbr-col-lg-6': showImg}\">\n                <div class=\"form-wrap\" mbr-form>\n                  <form class=\"mbr-form\" action=\"gabriellandero@outlook.com\" method=\"post\" name=\"Mobirise Form\" target=\"_top\" novalidate>\n                      <div class=\"mbr-row\">\n                        <div submit-success class=\"mbr-col-sm-12 mbr-col-md-12\">\n                            <template data-form-alert type=\"amp-mustache\">Gracias por contactar al centro de capacitación palenque</template>\n                        </div>\n                        <div submit-error class=\"mbr-col-sm-12 mbr-col-md-12\">\n                            <template data-form-alert type=\"amp-mustache\">Gracias por contactar al centro de capacitación palenque</template>\n                        </div>\n                      </div>\n                      <div class=\"mbr-row\" data-for=\"form[data][1][1]\">\n                          <div class=\"field mbr-col-sm-12 mbr-col-md-4 mbr-col-lg-4\" data-for=\"form[data][1][1]\">\n                              <input type=\"hidden\" name=\"form[data][1][0]\" value=\"Name\">\n                              <input class=\"field-input\" type=\"text\" name=\"form[data][1][1]\" data-form-field=\"Name\" placeholder=\"Nombre\" required>\n                          </div>\n                          <div class=\"field mbr-col-sm-12 mbr-col-md-4 mbr-col-lg-4\" data-for=\"form[data][2][1]\">\n                              <input type=\"hidden\" name=\"form[data][2][0]\" value=\"Phone\">\n                              <input class=\"field-input\" type=\"phone\" name=\"form[data][2][1]\" data-form-field=\"Phone\" placeholder=\"Phone\" required>\n                          </div>\n                          <div class=\"field mbr-col-sm-12 mbr-col-md-4 mbr-col-lg-4\" data-for=\"form[data][0][1]\">\n                              <input type=\"hidden\" name=\"form[data][0][0]\" value=\"Email\">\n                              <input class=\"field-input\" type=\"email\" name=\"form[data][0][1]\" data-form-field=\"Email\" placeholder=\"Email\" required>\n                          </div>\n                          <div class=\"area field mbr-col-sm-12 mbr-col-md-12 mbr-col-lg-12\" data-for=\"form[data][3][1]\">\n                              <input type=\"hidden\" name=\"form[data][3][0]\" value=\"Message\">\n                              <textarea class=\"field-input\" name=\"form[data][3][1]\" rows=\"7\" data-form-field=\"Message\" placeholder=\"Mesaje\"></textarea>\n                          </div>\n                          <div mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\" class=\"input-group-btn field mbr-col-sm-12 mbr-col-md-12 mbr-col-lg-12\"><a type=\"submit\" class=\"btn btn-primary btn-form\" data-app-placeholder=\"Type Text\">Enviar</a></div>\n                      </div>\n                  </form>\n            </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "rzZJN3imNt",
           "_anchor": "contacts6-4",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        }
+      ]
+    },
+    "page2.html": {
+      "settings": {
+        "title": "Interfaz servicio",
+        "order": 1
+      },
+      "components": [
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "p": {
+              "margin": "0",
+              "color": "#ffffff"
+            },
+            ".mbr-col-sm-12, .mbr-text": {
+              "color": "#000000",
+              "text-align": "left"
+            }
+          },
+          "_name": "footer1",
+          "_customHTML": "<section class=\"footer1\" group=\"Footers\" plugins=\"amp-main\" global once=\"footer\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Por Encima\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"8\">\n        <input type=\"range\" inline title=\"Por Debajo\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Imagen de Fondo\" value=\"@PROJECT_PATH@/assets/images/interfaz-1413x278.png\" selected>\n            <input type=\"color\" title=\"Color de Fondo\" value=\"#232323\">\n        </fieldset>\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"mbr-col-sm-12 align-center mbr-white\">\n            <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-col-sm-12, .mbr-text\" data-app-placeholder=\"Type Text\"><b>Soluciones Digitales de México</b></p>\n        </div>\n    </div>\n</section>",
+          "_cid": "rzZdsjpBuI",
+          "_anchor": "footer1-5",
+          "_protectedParams": [],
+          "_global": true,
+          "_once": "footer",
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".counter-container": {
+              "ol": {
+                "margin-bottom": "0",
+                "li": {
+                  "margin-bottom": "2rem"
+                },
+                "& when (@stylizedCounters)": {
+                  "counter-reset": "myCounter",
+                  "li": {
+                    "z-index": "3",
+                    "list-style": "none",
+                    "padding-left": ".5rem",
+                    "&:before": {
+                      "z-index": "2",
+                      "position": "absolute",
+                      "left": "0px",
+                      "counter-increment": "myCounter",
+                      "content": "counter(myCounter)",
+                      "text-align": "center",
+                      "margin": "0 10px",
+                      "line-height": "30px",
+                      "transition": "all .2s",
+                      "width": "35px",
+                      "height": "35px",
+                      "color": "@counterColor",
+                      "font-size": "20px",
+                      "font-weight": "bold",
+                      "border-radius": "50%",
+                      "border": "2px solid @counterColor",
+                      "opacity": "@counterOpacity"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "_name": "content9",
+          "_customHTML": "<section class=\"mbr-section content9\" plugins=\"amp-main\">\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Por Encima\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Por Debajo\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"checkbox\" title=\"Numeración Personalizada\" name=\"stylizedCounters\" checked>\n        \n        <input type=\"color\" title=\"Color de Numeración\" name=\"counterColor\" value=\"#4ea2e3\" condition=\"stylizedCounters\">\n        <input type=\"range\" title=\"Opacidad de Numeración\" inline name=\"counterOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.5\" condition=\"stylizedCounters\">\n        \n        <input type=\"color\" title=\"Color de Fondo\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"mbr-container\">\n        <div class=\"mbr-text counter-container mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>\n            <ol>\n                <li><b>DISEÑO DE SITIO WEB</b> - Nuestros diseñadores de páginas web tienen una gran experiencia en el diseño web. Contamos con planes de diseño de páginas web a la medida.</li>\n                <li><b>DESARROLLO&nbsp;</b> -Contamos con grandes programadores de sitios web que desarrollarán una automatización de procesos para que tu página web sea totalmente dinámica.</li>\n                <li><b>WEB MOVIL</b> - El Diseño web se verá bien en todos los dispositivos ios y android de última generación. Tu sitio web se adaptará a todas las resoluciones.</li>\n            </ol>\n        </div>\n    </div>\n</section>",
+          "_cid": "rAbMfPnHss",
+          "_anchor": "content9-8",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            "& when (@flexDirection)": {
+              ".mbr-row": {
+                "-webkit-flex-direction": "row-reverse",
+                "flex-direction": "row-reverse"
+              }
+            },
+            ".text-block": {
+              "margin": "auto"
+            },
+            "@media (min-width: 768px)": {
+              ".video-block when (@flexDirection)": {
+                "padding-left": "2rem"
+              },
+              ".video-block when not (@flexDirection)": {
+                "padding-right": "2rem"
+              }
+            },
+            "@media (max-width: 767px)": {
+              ".video-block": {
+                "padding-bottom": "1rem"
+              }
+            },
+            ".btn when (@showButtons)": {
+              "margin": ".4rem 4px !important"
+            }
+          },
+          "_name": "features11",
+          "_customHTML": "<section class=\"features11\" group=\"Features\" plugins=\"amp-main, amp-youtube\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n\n        <input type=\"range\" inline=\"\" title=\"Por Encima\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"2\" step=\"1\">\n        <input type=\"range\" inline=\"\" title=\"Por Debajo\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"2\" step=\"1\">\n        <input type=\"checkbox\" title=\"Mostrar Título\" name=\"showTitle\" checked=\"\">\n        <input type=\"checkbox\" title=\"Mostrar Texto\" name=\"showText\" checked=\"\">\n        <input type=\"checkbox\" title=\"Mostrar Botón(es)\" name=\"showButtons\">\n        <input type=\"checkbox\" title=\"Medios a la Izquierda/Derecha\" name=\"flexDirection\" checked=\"\">\n        <input type=\"text\" title=\"URL Vídeo de Youtube\" name=\"videoUrl\" value=\"http://www.youtube.com/watch?v=lBTCB7yLs8Y\">\n\n        <input type=\"color\" title=\"Color de Fondo\" name=\"bgColor\" value=\"#0dd1ff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n       \n    <div class=\"container\">\n        <div class=\"mbr-row mbr-justify-content-center\">\n            <div class=\"video-block mbr-col-sm-12 mbr-col-md-6\">\n                <amp-youtube width=\"16\" height=\"9\" layout=\"responsive\" data-videoid=\"lBTCB7yLs8Y\" class=\"mobirise-loader\">\n                    <div placeholder=\"\" class=\"placeholder\"></div>\n                </amp-youtube>\n            </div>\n            <div class=\"text-block mbr-col-sm-12 mbr-col-md-6\">\n                <h3 class=\"mbr-section-title mbr-fonts-style align-left mbr-white\" mbr-theme-style=\"display-5\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\">\n                    BLOQUE CON VIDEO DE YOUTUBE\n                </h3>\n                <p class=\"mbr-fonts-style mbr-text align-left mbr-white\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\">\n                   Lorem ipsum dolor sit amet, consectetur adipisicing elit. Natus dolore provident aperiam assumenda tenetur expedita iure, voluptatibus deserunt sapiente ipsam dolores, ratione, minima temporibus alias aut mollitia non. Amet, suscipit?\n                </p>\n                <div class=\"mbr-section-btn align-left\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons=\"\" mbr-theme-style=\"display-4\">\n                    <a class=\"btn btn-sm btn-primary\" href=\"https://mobirise.co\">LEER MÁS</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>\n",
+          "_cid": "rAbOdlTwx7",
+          "_anchor": "features11-c",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            ".mbr-row": {
+              "margin": "0 15px"
+            },
+            ".card": {
+              "@media (max-width: 991px)": {
+                "margin-bottom": "20px"
+              }
+            },
+            ".mbr-section-title": {
+              "margin": "0",
+              "padding-bottom": "1rem"
+            },
+            ".mbr-text": {
+              "margin": "0"
+            }
+          },
+          "_name": "content15",
+          "_customHTML": "<section class=\"content15 mbr-section\" group=\"Articles\" plugins=\"amp-main\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline=\"\" title=\"Por Encima\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"5\">\n        <input type=\"range\" inline=\"\" title=\"Por Debajo\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"5\">\n        <input type=\"checkbox\" title=\"Mostrar Título\" name=\"showTitle\" checked=\"\">\n        <input type=\"checkbox\" title=\"Mostrar Texto\" name=\"showText\" checked=\"\">\n        <select title=\"Tarjetas\" name=\"cardsAmount\">\n            <option value=\"1\">1</option>\n            <option value=\"2\">2</option>\n            <option value=\"3\" selected=\"\">3</option>\n            <option value=\"4\">4</option>\n        </select>\n\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Imagen de Fondo\" value=\"../_images/background2.jpg\">\n            <input type=\"color\" title=\"Color de Fondo\" value=\"#ffffff\" selected=\"\">\n        </fieldset>\n    <!-- End block parameters -->\n    </mbr-parameters>\n    \n    <div class=\"container\">\n        <div class=\"mbr-row mbr-justify-content-center\">\n            <div class=\"card mbr-col-sm-12 mbr-col-md-6\" mbr-class=\"{'mbr-col-lg-4': cardsAmount <= 3,\n                             'mbr-col-lg-3': cardsAmount > 3}\">\n                <h3 class=\"mbr-section-title mbr-fonts-style align-center\" mbr-theme-style=\"display-5\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\">\n                    Rendimiento\n                </h3>\n                <p class=\"mbr-text mbr-fonts-style align-center\" mbr-theme-style=\"display-4\" mbr-if=\"showText\" data-app-selector=\".mbr-text\">\n                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus aperiam\n                </p>             \n            </div>\n            \n            <div class=\"card mbr-col-sm-12 mbr-col-md-6\" mbr-class=\"{'mbr-col-lg-4': cardsAmount <= 3,\n                             'mbr-col-lg-3': cardsAmount > 3}\" mbr-if=\"cardsAmount > 1\">\n                <h3 class=\"mbr-section-title mbr-fonts-style align-center\" mbr-theme-style=\"display-5\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\">\n                    Compromisos\n                </h3>\n                <p class=\"mbr-text mbr-fonts-style align-center\" mbr-theme-style=\"display-4\" mbr-if=\"showText\" data-app-selector=\".mbr-text\">\n                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus aperiam\n                </p> \n            </div>\n        \n            <div class=\"card mbr-col-sm-12 mbr-col-md-6\" mbr-class=\"{'mbr-col-lg-4': cardsAmount <= 3,\n                             'mbr-col-lg-3': cardsAmount > 3}\" mbr-if=\"cardsAmount > 2\">\n                <h3 class=\"mbr-section-title mbr-fonts-style align-center\" mbr-theme-style=\"display-5\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\">\n                    Flexibilidad\n                </h3>\n                <p class=\"mbr-text mbr-fonts-style align-center\" mbr-theme-style=\"display-4\" mbr-if=\"showText\" data-app-selector=\".mbr-text\">\n                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus aperiam\n                </p>\n            </div>\n        \n            <div class=\"card mbr-col-sm-12 mbr-col-md-6\" mbr-class=\"{'mbr-col-lg-4': cardsAmount <= 3,\n                             'mbr-col-lg-3': cardsAmount > 3}\" mbr-if=\"cardsAmount > 3\">\n                <h3 class=\"mbr-section-title mbr-fonts-style align-center\" mbr-theme-style=\"display-5\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\">\n                    Resultados\n                </h3>\n                <p class=\"mbr-text mbr-fonts-style align-center\" mbr-theme-style=\"display-4\" mbr-if=\"showText\" data-app-selector=\".mbr-text\">\n                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus aperiam\n                </p>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "rAbO7aIgtJ",
+          "_anchor": "content15-b",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            ".mbr-section-btn": {
+              "margin-bottom": "1rem"
+            },
+            ".mbr-section-btn > *": {
+              "margin": "0"
+            },
+            ".mbr-form": {
+              "justify-content": "center",
+              "@media (min-width: 768px)": {
+                "display": "flex",
+                "-webkit-flex-wrap": "wrap",
+                "flex-wrap": "wrap",
+                "-webkit-align-items": "center",
+                "align-items": "center"
+              },
+              "margin-left": "-0.5rem",
+              "margin-right": "-0.5rem"
+            },
+            ".fieldset": {
+              "-webkit-flex-basis": "auto",
+              "flex-basis": "auto",
+              "label": {
+                "margin": "0"
+              }
+            },
+            ".mbr-row when (@showSubtitle), (@showTitle)": {
+              "margin-top": "2rem"
+            },
+            ".mbr-row": {
+              "align-items": "center"
+            },
+            "input": {
+              "color": "@labelsColor !important",
+              "border": "1px solid @borderColor",
+              "&:hover, &:focus": {
+                "border-color": "@primaryColor"
+              },
+              "background": "@inputColor"
+            },
+            "input::-webkit-input-placeholder": {
+              "color": "fade(@labelsColor, 50%)"
+            },
+            "input::-moz-placeholder": {
+              "color": "fade(@labelsColor, 50%)"
+            },
+            "form input": {
+              "margin": ".5rem"
+            }
+          },
+          "_name": "contacts1",
+          "_customHTML": "<section class=\"contact1\" group=\"Contacts\" plugins=\"amp-main,amp-form,amp-mustache\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline=\"\" title=\"Por Encima\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline=\"\" title=\"Por Debajo\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"4\">\n\n        <input type=\"checkbox\" title=\"Mostrar Título\" name=\"showTitle\" checked=\"\">\n        <input type=\"checkbox\" title=\"Mostrar Subtítulo\" name=\"showSubtitle\">\n\n        <input type=\"color\" title=\"Fields Color\" name=\"inputColor\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Border Color\" name=\"borderColor\" value=\"#767676\">\n        <input type=\"color\" title=\"Form Text Color\" name=\"labelsColor\" value=\"#000000\">\n\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Imagen de Fondo\" value=\"../_images/background2.jpg\">\n            <input type=\"color\" title=\"Color de Fondo\" value=\"#ffffff\" selected=\"\">\n        </fieldset>\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <h2 mbr-if=\"showTitle\" class=\"align-center mbr-fonts-style mbr-light\" mbr-theme-style=\"display-2\">\n            Subscribe Form\n        </h2>\n        <h3 mbr-if=\"showSubtitle\" class=\"mbr-section-subtitle align-center mbr-fonts-style mbr-light\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-section-subtitle\">\n            Subscribe to our Newsletter\n        </h3>\n\n        <div class=\"mbr-row mbr-justify-content-center\">\n            <div mbr-form=\"\" class=\"mbr-col-lg-10  mbr-col-md-12 \">\n                <form class=\"mbr-form\" action=\"\" method=\"post\" name=\"Mobirise Form\" target=\"_top\" novalidate=\"\">\n                    <div class=\"mbr-row\">\n                      <div submit-success=\"\" class=\"mbr-col-sm-12 mbr-col-md-12\">\n                        <template data-form-alert=\"\" type=\"amp-mustache\">\n                          Subscription successful!\n                        </template>\n                      </div>\n                      <div submit-error=\"\" class=\"mbr-col-sm-12 mbr-col-md-12\">\n                        <template data-form-alert=\"\" type=\"amp-mustache\">\n                          Subscription failed! {{error}}\n                        </template>\n                      </div>\n                    </div>\n                    <div class=\"mbr-row\">\n                        <div class=\"field mbr-col-sm-12 mbr-col-md-12 mbr-col-lg-3\" data-for=\"form[data][0][1]\">\n                            <input type=\"hidden\" name=\"form[data][0][0]\" value=\"Name\">\n                            <input class=\"field-input\" type=\"text\" name=\"form[data][0][1]\" data-form-field=\"Name\" placeholder=\"Name\" required=\"\">\n                        </div>\n                        <div class=\"field mbr-col-sm-12 mbr-col-md-12 mbr-col-lg-3\" data-for=\"form[data][1][1]\">\n                            <input type=\"hidden\" name=\"form[data][1][0]\" value=\"Last Name\">\n                            <input class=\"field-input\" type=\"text\" name=\"form[data][1][1]\" data-form-field=\"Last Name\" placeholder=\"Last Name\" required=\"\">\n                        </div>\n                        <div class=\"field mbr-col-sm-12 mbr-col-md-12 mbr-col-lg-3\" data-for=\"form[data][2][1]\">\n                            <input type=\"hidden\" name=\"form[data][2][0]\" value=\"Email\">\n                            <input class=\"field-input\" type=\"email\" name=\"form[data][2][1]\" data-form-field=\"Email\" placeholder=\"Email\" required=\"\">\n                        </div>\n                        <div class=\"mbr-section-btn align-center field mbr-col-sm-12 mbr-col-md-12 mbr-col-lg-3\" data-toolbar=\"-mbrBtnMove\" mbr-buttons=\"\" mbr-theme-style=\"display-4\">\n                            <a type=\"submit\" class=\"btn btn-primary btn-form\">Subscribe</a>\n                        </div>\n                    </div>\n                </form>\n            </div>\n        </div>\n    </div>\n</section>\n",
+          "_cid": "rAbOr3rIcp",
+          "_anchor": "contacts1-d",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
